@@ -1,0 +1,8 @@
+{
+  "name": "polymer-typescript-bug",
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "polymer": "^2.4.0"
+  }
+}
